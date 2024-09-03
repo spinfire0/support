@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/support",
+    "name": "spinfire0/support",
 
     "description": "PragmaRX components support package",
 
@@ -9,9 +9,8 @@
 
     "authors": [
         {
-            "name": "Antonio Carlos Ribeiro",
-            "email": "acr@antoniocarlosribeiro.com",
-            "role": "Creator"
+            "name": "spinfire0",
+            "role": "Maintainer"
         }
     ],
 
