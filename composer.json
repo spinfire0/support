@@ -32,9 +32,7 @@
     "suggest": {
         "laravel/framework": "Laravel framework.",
         "symfony/yaml": "The Yaml class needs it"
-    },
-
-    "extra": {
-
     }
+
+
 }
